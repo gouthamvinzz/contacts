@@ -1,0 +1,14 @@
+.contactDetail{
+    margin-top: 50px;
+    margin-left: 30px;
+    background-color: #eae8e9;
+    width: 400px;
+    height: 550px;
+}
+
+
+.mainName{
+    text-align: center;
+    margin-top: 20px;
+    font-size: large;
+}
