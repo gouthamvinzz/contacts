@@ -386,10 +386,8 @@ class ContactView extends React.Component {
               </div>
             </div>
             <div style={{ display: "flex" }}>
-              {/* <div class="two column row"> */}
               {this.contactTable()}
               {this.state.showDetail && this.contactDetail()}
-              {/* </div> */}
             </div>
           </div>
         </div>
